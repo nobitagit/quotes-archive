@@ -1,4 +1,4 @@
-Free crumbs of knowledge.
+A quotes archive.
 
 JSON Format:
 
