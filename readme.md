@@ -3,7 +3,7 @@ A quotes archive.
 JSON Format:
 
 {
-	"phrase" : "Nothing is faster than doing nothing.",
+	"text" : "Nothing is faster than doing nothing.",
 	"author" : "Joseph Smarr",
 	"authorLink" : "http://josephsmarr.com/",
 	"reference" : "High-Performance JavaScript - Why Everything You've Been Taught is Wrong",
@@ -12,7 +12,8 @@ JSON Format:
 		"performance",
 		"javascript",
 		"best practices"
-	]
+	],
+	"_id" : "0"
 }
 
 To lint the json just run:

@@ -1,5 +1,5 @@
 [{
-	"phrase": "There is a tendency within any programming community to want to do everything in the community's language. But sometimes the problem has already been solved by men with beards in the 1970's. If you can park the hipster hacker mentality there are tools that have been around for a long time that are stable and fast that already solve your problem. The main thing is to keep it small and distinct. If you know a little UNIX maybe you should try make or a small bash script as your build tool.",
+	"text": "There is a tendency within any programming community to want to do everything in the community's language. But sometimes the problem has already been solved by men with beards in the 1970's. If you can park the hipster hacker mentality there are tools that have been around for a long time that are stable and fast that already solve your problem. The main thing is to keep it small and distinct. If you know a little UNIX maybe you should try make or a small bash script as your build tool.",
 	"author" : "George Ornbo",
 	"authorLink" : "http://shapeshed.com/",
 	"reference" : "Making the case for make",
@@ -7,10 +7,11 @@
 	"tags" : [
 		"make",
 		"build tools"
-	]
+	],
+	"_id" : "0"
 },
 {
-	"phrase" : "Nothing is faster than doing nothing.",
+	"text" : "Nothing is faster than doing nothing.",
 	"author" : "Joseph Smarr",
 	"authorLink" : "http://josephsmarr.com/",
 	"reference" : "High-Performance JavaScript - Why Everything You've Been Taught is Wrong",
@@ -19,5 +20,6 @@
 		"performance",
 		"javascript",
 		"best practices"
-	]
+	],
+	"_id" : "1"
 }]
