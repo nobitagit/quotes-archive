@@ -1,8 +1,9 @@
 An archive of quotes about programming.
+
 Each quote is listed along with its own context with a link the article/video it was taken from.
 
 JSON Format (_id is auto generated):
-
+```
 {
 	"text" : "Nothing is faster than doing nothing.",
 	"author" : "Joseph Smarr",
@@ -16,7 +17,7 @@ JSON Format (_id is auto generated):
 	],
 	"_id" : 1
 }
-
+```
 To generate the json files just:
 
 ```
