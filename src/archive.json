@@ -20,4 +20,15 @@
 		"javascript",
 		"best practices"
 	]
+},
+{
+	"text" : "What we should be doing in the computing business is trying to raise the level at which we work, so that a programmer can write a few lines that turn into many, many instructions in the machine. That way when changes need to be made one just changes a few lines of code, rather than thousands and thousands of them.",
+	"author" : "John R. Mashey",
+	"authorLink" : "https://twitter.com/johnmashey",
+	"reference" : "AT&T Archives: The UNIX Operating System",
+	"referenceLink" : "https://www.youtube.com/watch?v=tc4ROCJYbm0&feature=youtu.be&t=3m30s",
+	"tags" : [
+		"theory",
+		"best practices"
+	]
 }]

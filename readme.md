@@ -3,7 +3,7 @@ An archive of quotes about programming.
 Each quote is listed along with its own context with a link the article/video it was taken from.
 
 JSON Format (_id is auto generated):
-```
+```json
 {
 	"text" : "Nothing is faster than doing nothing.",
 	"author" : "Joseph Smarr",
