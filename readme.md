@@ -1,6 +1,7 @@
-A quotes archive.
+An archive of quotes about programming.
+Each quote is listed along with its own context with a link the article/video it was taken from.
 
-JSON Format:
+JSON Format (_id is auto generated):
 
 {
 	"text" : "Nothing is faster than doing nothing.",
@@ -13,10 +14,10 @@ JSON Format:
 		"javascript",
 		"best practices"
 	],
-	"_id" : "0"
+	"_id" : 1
 }
 
-To lint the json just run:
+To generate the json files just:
 
 ```
 make

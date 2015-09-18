@@ -7,8 +7,7 @@
 	"tags" : [
 		"make",
 		"build tools"
-	],
-	"_id" : "0"
+	]
 },
 {
 	"text" : "Nothing is faster than doing nothing.",
@@ -20,6 +19,5 @@
 		"performance",
 		"javascript",
 		"best practices"
-	],
-	"_id" : "1"
+	]
 }]
