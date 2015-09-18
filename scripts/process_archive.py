@@ -5,10 +5,10 @@ import sys;
 
 try: archive = json.load(sys.stdin)
 except:
-	sys.stderr.write('error parsing target JSON \n')
-	sys.exit(2)
+  sys.stderr.write('error parsing target JSON \n')
+  sys.exit(2)
 
 for index, item in enumerate(archive):
-	item['_id'] = index
+  item['_id'] = index
 
 print json.dumps(archive)
